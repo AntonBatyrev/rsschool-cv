@@ -18,6 +18,16 @@ plant. Iwould like to broaden my outlook and achieve new career as a front-end d
 * professionalism
 * multitasking
 
+# Code Example
+```
+function multiply (a, b) {
+return a * b
+}
+```
+
+# Work experience:
+https://github.com/AntonBatyrev/rsschool-cv
+
 # Education:
 **University**: Moscow Power Energy Institute, Energy supply of enterprises
 
